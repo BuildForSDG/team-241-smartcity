@@ -1,5 +1,6 @@
 A one-liner phrase describing this project or app
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ee3dd36e654147538eb8245bbb1c3758)](https://app.codacy.com/gh/BuildForSDG/team-241-smartcity?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/team-241-smartcity&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://img.shields.io/badge/Code%20Quality-D-red)](https://img.shields.io/badge/Code%20Quality-D-red)
 
 ## About
